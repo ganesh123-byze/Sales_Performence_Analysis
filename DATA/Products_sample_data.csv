@@ -1,0 +1,11 @@
+product_id,product_name,category,price,profit_margin
+101,Laptop,Technology,75000.000,0.250
+102,Smartphone,Technology,30000.000,0.200
+103,"Wireless Mouse",Accessories,1200.000,0.150
+104,Keyboard,Accessories,1500.000,0.180
+105,"Office Chair",Furniture,10000.000,0.300
+106,"Desk Lamp",Furniture,2500.000,0.220
+107,Printer,Technology,18000.000,0.280
+108,Monitor,Technology,15000.000,0.250
+109,Headphones,Accessories,2500.000,0.200
+110,Smartwatch,Technology,8000.000,0.230

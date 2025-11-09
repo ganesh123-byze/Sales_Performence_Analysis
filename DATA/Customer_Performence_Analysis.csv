@@ -1,0 +1,6 @@
+Customer_name,city,region,Total_Orders,Total_Revenue,Average_Order_Value
+"John Smith","New York",East,2,123000.00,61500.00
+"Sophia Brown",Chicago,East,2,72000.00,36000.00
+"Emma Johnson","Los Angeles",West,2,61000.00,30500.00
+"Rajesh Kumar",Mumbai,Central,2,42000.00,21000.00
+"Liam Wilson",Houston,South,2,40000.00,20000.00

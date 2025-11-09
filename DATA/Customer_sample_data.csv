@@ -1,0 +1,11 @@
+customer_id,customer_name,city,region,segment
+1,"John Smith","New York",East,Consumer
+2,"Emma Johnson","Los Angeles",West,Corporate
+3,"Rajesh Kumar",Mumbai,Central,"Home Office"
+4,"Sophia Brown",Chicago,East,Consumer
+5,"Liam Wilson",Houston,South,"Small Business"
+6,"Olivia Taylor",London,West,Corporate
+7,"Noah Davis",Delhi,Central,Consumer
+8,"Ava Patel",Sydney,East,"Home Office"
+9,"Ethan Thomas",Toronto,North,"Small Business"
+10,"Isabella Lee","San Francisco",West,Corporate

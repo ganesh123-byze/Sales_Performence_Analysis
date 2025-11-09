@@ -1,0 +1,11 @@
+region,category,Total_sales
+South,Furniture,2500.00
+South,Accessories,5000.00
+East,Accessories,8600.00
+East,Furniture,12500.00
+Central,Accessories,13200.00
+North,Furniture,15000.00
+Central,Technology,18000.00
+South,Technology,30000.00
+West,Technology,139000.00
+East,Technology,171000.00
